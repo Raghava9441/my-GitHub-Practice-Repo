@@ -1,1 +1,3 @@
 new feature was added in new feature commit 
+
+this line was edited in local repository 
